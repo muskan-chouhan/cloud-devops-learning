@@ -108,3 +108,7 @@ Example:
 apt show nginx
 
 use :- detail about package
+
+
+
+
