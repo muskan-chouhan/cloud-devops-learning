@@ -173,7 +173,6 @@ Useful Options:
 Example:
 
 ss -tulpn
-
 Real World:
 
 Used to check which services are listening on which ports.
